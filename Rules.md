@@ -4,35 +4,35 @@
 * [AnyObject Protocol](#anyobject-protocol)
 * [Array Init](#array-init)
 * [Attributes](#attributes)
-* [Block Based KVO](#block-based-kvo)
-* [Class Delegate Protocol](#class-delegate-protocol)
-* [Closing Brace Spacing](#closing-brace-spacing)
+* [Block Based KVO](#block-based-kvo)*
+* [Class Delegate Protocol](#class-delegate-protocol)*
+* [Closing Brace Spacing](#closing-brace-spacing)*
 * [Closure Body Length](#closure-body-length)
 * [Closure End Indentation](#closure-end-indentation)
-* [Closure Parameter Position](#closure-parameter-position)
+* [Closure Parameter Position](#closure-parameter-position)*
 * [Closure Spacing](#closure-spacing)
 * [Collection Element Alignment](#collection-element-alignment)
-* [Colon](#colon)
-* [Comma Spacing](#comma-spacing)
-* [Compiler Protocol Init](#compiler-protocol-init)
+* [Colon](#colon)*
+* [Comma Spacing](#comma-spacing)*
+* [Compiler Protocol Init](#compiler-protocol-init)*
 * [Conditional Returns on Newline](#conditional-returns-on-newline)
 * [Contains over first not nil](#contains-over-first-not-nil)
-* [Control Statement](#control-statement)
+* [Control Statement](#control-statement)*
 * [Convenience Type](#convenience-type)
 * [Custom Rules](#custom-rules)
-* [Cyclomatic Complexity](#cyclomatic-complexity)
-* [Deployment Target](#deployment-target)
-* [Discarded Notification Center Observer](#discarded-notification-center-observer)
-* [Discouraged Direct Initialization](#discouraged-direct-initialization)
+* [Cyclomatic Complexity](#cyclomatic-complexity)*
+* [Deployment Target](#deployment-target)*
+* [Discarded Notification Center Observer](#discarded-notification-center-observer)*
+* [Discouraged Direct Initialization](#discouraged-direct-initialization)*
 * [Discouraged Object Literal](#discouraged-object-literal)
 * [Discouraged Optional Boolean](#discouraged-optional-boolean)
 * [Discouraged Optional Collection](#discouraged-optional-collection)
-* [Duplicate Imports](#duplicate-imports)
-* [Dynamic Inline](#dynamic-inline)
-* [Empty Count](#empty-count)
-* [Empty Enum Arguments](#empty-enum-arguments)
-* [Empty Parameters](#empty-parameters)
-* [Empty Parentheses with Trailing Closure](#empty-parentheses-with-trailing-closure)
+* [Duplicate Imports](#duplicate-imports)*
+* [Dynamic Inline](#dynamic-inline)*
+* [Empty Count](#empty-count)*
+* [Empty Enum Arguments](#empty-enum-arguments)*
+* [Empty Parameters](#empty-parameters)*
+* [Empty Parentheses with Trailing Closure](#empty-parentheses-with-trailing-closure)*
 * [Empty String](#empty-string)
 * [Empty XCTest Method](#empty-xctest-method)
 * [Explicit ACL](#explicit-acl)
@@ -45,40 +45,40 @@
 * [Fallthrough](#fallthrough)
 * [Fatal Error Message](#fatal-error-message)
 * [File Header](#file-header)
-* [File Line Length](#file-line-length)
+* [File Line Length](#file-line-length)*
 * [File Name](#file-name)
 * [File Types Order](#file-types-order)
 * [First Where](#first-where)
-* [For Where](#for-where)
+* [For Where](#for-where)*
 * [Force Cast](#force-cast)
-* [Force Try](#force-try)
+* [Force Try](#force-try)*
 * [Force Unwrapping](#force-unwrapping)
-* [Function Body Length](#function-body-length)
+* [Function Body Length](#function-body-length)*
 * [Function Default Parameter at End](#function-default-parameter-at-end)
 * [Function Parameter Count](#function-parameter-count)
-* [Generic Type Name](#generic-type-name)
+* [Generic Type Name](#generic-type-name)*
 * [Identical Operands](#identical-operands)
 * [Identifier Name](#identifier-name)
-* [Implicit Getter](#implicit-getter)
+* [Implicit Getter](#implicit-getter)*
 * [Implicit Return](#implicit-return)
 * [Implicitly Unwrapped Optional](#implicitly-unwrapped-optional)
-* [Inert Defer](#inert-defer)
-* [Is Disjoint](#is-disjoint)
+* [Inert Defer](#inert-defer)*
+* [Is Disjoint](#is-disjoint)*
 * [Joined Default Parameter](#joined-default-parameter)
-* [Large Tuple](#large-tuple)
+* [Large Tuple](#large-tuple)*
 * [Last Where](#last-where)
-* [Leading Whitespace](#leading-whitespace)
-* [Legacy CGGeometry Functions](#legacy-cggeometry-functions)
-* [Legacy Constant](#legacy-constant)
-* [Legacy Constructor](#legacy-constructor)
-* [Legacy Hashing](#legacy-hashing)
-* [Legacy NSGeometry Functions](#legacy-nsgeometry-functions)
+* [Leading Whitespace](#leading-whitespace)*
+* [Legacy CGGeometry Functions](#legacy-cggeometry-functions)*
+* [Legacy Constant](#legacy-constant)*
+* [Legacy Constructor](#legacy-constructor)*
+* [Legacy Hashing](#legacy-hashing)*
+* [Legacy NSGeometry Functions](#legacy-nsgeometry-functions)*
 * [Legacy Random](#legacy-random)
 * [Variable Declaration Whitespace](#variable-declaration-whitespace)
 * [Line Length](#line-length)
 * [Literal Expression End Indentation](#literal-expression-end-indentation)
 * [Lower ACL than parent](#lower-acl-than-parent)
-* [Mark](#mark)
+* [Mark](#mark)*
 * [Missing Docs](#missing-docs)
 * [Modifier Order](#modifier-order)
 * [Multiline Arguments](#multiline-arguments)
@@ -87,94 +87,94 @@
 * [Multiline Literal Brackets](#multiline-literal-brackets)
 * [Multiline Parameters](#multiline-parameters)
 * [Multiline Parameters Brackets](#multiline-parameters-brackets)
-* [Multiple Closures with Trailing Closure](#multiple-closures-with-trailing-closure)
+* [Multiple Closures with Trailing Closure](#multiple-closures-with-trailing-closure)*
 * [Nesting](#nesting)
 * [Nimble Operator](#nimble-operator)
 * [No Extension Access Modifier](#no-extension-access-modifier)
-* [No Fallthrough Only](#no-fallthrough-only)
+* [No Fallthrough Only](#no-fallthrough-only)*
 * [No Grouping Extension](#no-grouping-extension)
-* [Notification Center Detachment](#notification-center-detachment)
+* [Notification Center Detachment](#notification-center-detachment)*
 * [NSLocalizedString Key](#nslocalizedstring-key)
 * [NSLocalizedString Require Bundle](#nslocalizedstring-require-bundle)
 * [NSObject Prefer isEqual](#nsobject-prefer-isequal)
 * [Number Separator](#number-separator)
 * [Object Literal](#object-literal)
-* [Opening Brace Spacing](#opening-brace-spacing)
+* [Opening Brace Spacing](#opening-brace-spacing)*
 * [Operator Usage Whitespace](#operator-usage-whitespace)
-* [Operator Function Whitespace](#operator-function-whitespace)
+* [Operator Function Whitespace](#operator-function-whitespace)*
 * [Overridden methods call super](#overridden-methods-call-super)
 * [Override in Extension](#override-in-extension)
 * [Pattern Matching Keywords](#pattern-matching-keywords)
 * [Prefixed Top-Level Constant](#prefixed-top-level-constant)
 * [Private Actions](#private-actions)
 * [Private Outlets](#private-outlets)
-* [Private over fileprivate](#private-over-fileprivate)
-* [Private Unit Test](#private-unit-test)
+* [Private over fileprivate](#private-over-fileprivate)*
+* [Private Unit Test](#private-unit-test)*
 * [Prohibited Interface Builder](#prohibited-interface-builder)
 * [Prohibited calls to super](#prohibited-calls-to-super)
-* [Protocol Property Accessors Order](#protocol-property-accessors-order)
+* [Protocol Property Accessors Order](#protocol-property-accessors-order)*
 * [Quick Discouraged Call](#quick-discouraged-call)
 * [Quick Discouraged Focused Test](#quick-discouraged-focused-test)
 * [Quick Discouraged Pending Test](#quick-discouraged-pending-test)
 * [Reduce Boolean](#reduce-boolean)
 * [Reduce Into](#reduce-into)
-* [Redundant Discardable Let](#redundant-discardable-let)
+* [Redundant Discardable Let](#redundant-discardable-let)*
 * [Redundant Nil Coalescing](#redundant-nil-coalescing)
-* [Redundant @objc Attribute](#redundant-objc-attribute)
-* [Redundant Optional Initialization](#redundant-optional-initialization)
-* [Redundant Set Access Control Rule](#redundant-set-access-control-rule)
-* [Redundant String Enum Value](#redundant-string-enum-value)
+* [Redundant @objc Attribute](#redundant-objc-attribute)*
+* [Redundant Optional Initialization](#redundant-optional-initialization)*
+* [Redundant Set Access Control Rule](#redundant-set-access-control-rule)*
+* [Redundant String Enum Value](#redundant-string-enum-value)*
 * [Redundant Type Annotation](#redundant-type-annotation)
-* [Redundant Void Return](#redundant-void-return)
+* [Redundant Void Return](#redundant-void-return)*
 * [Required Deinit](#required-deinit)
 * [Required Enum Case](#required-enum-case)
-* [Returning Whitespace](#returning-whitespace)
+* [Returning Whitespace](#returning-whitespace)*
 * [Shorthand Operator](#shorthand-operator)
 * [Single Test Class](#single-test-class)
 * [Min or Max over Sorted First or Last](#min-or-max-over-sorted-first-or-last)
 * [Sorted Imports](#sorted-imports)
-* [Statement Position](#statement-position)
+* [Statement Position](#statement-position)*
 * [Static Operator](#static-operator)
 * [Strict fileprivate](#strict-fileprivate)
 * [Strong IBOutlet](#strong-iboutlet)
-* [Superfluous Disable Command](#superfluous-disable-command)
-* [Switch and Case Statement Alignment](#switch-and-case-statement-alignment)
+* [Superfluous Disable Command](#superfluous-disable-command)*
+* [Switch and Case Statement Alignment](#switch-and-case-statement-alignment)*
 * [Switch Case on Newline](#switch-case-on-newline)
-* [Syntactic Sugar](#syntactic-sugar)
-* [Todo](#todo)
+* [Syntactic Sugar](#syntactic-sugar)*
+* [Todo](#todo)*
 * [Toggle Bool](#toggle-bool)
 * [Trailing Closure](#trailing-closure)
-* [Trailing Comma](#trailing-comma)
-* [Trailing Newline](#trailing-newline)
-* [Trailing Semicolon](#trailing-semicolon)
-* [Trailing Whitespace](#trailing-whitespace)
-* [Type Body Length](#type-body-length)
-* [Type Contents Order](#type-contents-order)
-* [Type Name](#type-name)
+* [Trailing Comma](#trailing-comma)*
+* [Trailing Newline](#trailing-newline)*
+* [Trailing Semicolon](#trailing-semicolon)*
+* [Trailing Whitespace](#trailing-whitespace)*
+* [Type Body Length](#type-body-length)*
+* [Type Contents Order](#type-contents-order)*
+* [Type Name](#type-name)*
 * [Unavailable Function](#unavailable-function)
-* [Unneeded Break in Switch](#unneeded-break-in-switch)
+* [Unneeded Break in Switch](#unneeded-break-in-switch)*
 * [Unneeded Parentheses in Closure Argument](#unneeded-parentheses-in-closure-argument)
 * [Untyped Error in Catch](#untyped-error-in-catch)
 * [Unused Capture List](#unused-capture-list)
-* [Unused Closure Parameter](#unused-closure-parameter)
-* [Unused Control Flow Label](#unused-control-flow-label)
-* [Unused Enumerated](#unused-enumerated)
+* [Unused Closure Parameter](#unused-closure-parameter)*
+* [Unused Control Flow Label](#unused-control-flow-label)*
+* [Unused Enumerated](#unused-enumerated)*
 * [Unused Import](#unused-import)
-* [Unused Optional Binding](#unused-optional-binding)
+* [Unused Optional Binding](#unused-optional-binding)*
 * [Unused Private Declaration](#unused-private-declaration)
-* [Unused Setter Value](#unused-setter-value)
-* [Valid IBInspectable](#valid-ibinspectable)
-* [Vertical Parameter Alignment](#vertical-parameter-alignment)
+* [Unused Setter Value](#unused-setter-value)*
+* [Valid IBInspectable](#valid-ibinspectable)*
+* [Vertical Parameter Alignment](#vertical-parameter-alignment)*
 * [Vertical Parameter Alignment On Call](#vertical-parameter-alignment-on-call)
-* [Vertical Whitespace](#vertical-whitespace)
+* [Vertical Whitespace](#vertical-whitespace)*
 * [Vertical Whitespace Between Cases](#vertical-whitespace-between-cases)
 * [Vertical Whitespace before Closing Braces](#vertical-whitespace-before-closing-braces)
 * [Vertical Whitespace after Opening Braces](#vertical-whitespace-after-opening-braces)
-* [Void Return](#void-return)
-* [Weak Computed Property](#weak-computed-property)
-* [Weak Delegate](#weak-delegate)
+* [Void Return](#void-return)*
+* [Weak Computed Property](#weak-computed-property)*
+* [Weak Delegate](#weak-delegate)*
 * [XCTest Specific Matcher](#xctest-specific-matcher)
-* [XCTFail Message](#xctfail-message)
+* [XCTFail Message](#xctfail-message)*
 * [Yoda condition rule](#yoda-condition-rule)
 --------
 
